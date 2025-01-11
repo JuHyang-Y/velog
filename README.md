@@ -1,4 +1,4 @@
-# GitHub와 Velog 연동
+# Velog를 연동해 GitHub에 기록하기
 
 GitHub와 Velog를 연동해, 이제 velog 작성 시에도 GitHub에 **잔디심기**가 가능하다!!   
 나이쓰...👍   
